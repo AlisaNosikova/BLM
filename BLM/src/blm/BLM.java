@@ -16,6 +16,7 @@ public class BLM {
     public static void main(String[] args) {
         Frame mn = new Frame();
         mn.setVisible(true);
+        System.out.println("Çäðàâñòâóé, Ìèð");
     }
     
 }
