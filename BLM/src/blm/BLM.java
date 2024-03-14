@@ -14,7 +14,9 @@ public class BLM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Здравствуй, Мир");
+        Frame mn = new Frame();
+        mn.setVisible(true);
+        System.out.println("Г‡Г¤Г°Г ГўГ±ГІГўГіГ©, ГЊГЁГ°");
     }
     
 }
