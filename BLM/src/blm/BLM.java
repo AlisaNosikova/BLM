@@ -14,7 +14,8 @@ public class BLM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Frame mn = new Frame();
+        mn.setVisible(true);
     }
     
 }
